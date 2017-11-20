@@ -1,0 +1,17 @@
+/*
+  Dashboard css
+ */
+/*
+Download
+ */
+#download {
+  background: url(../img/digibg.jpg) no-repeat center center fixed;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%; }
+  #download .font-f {
+    font-family: 'Actor';
+    color: white;
+    font-weight: lighter; }
